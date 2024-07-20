@@ -102,16 +102,16 @@ export function WelcomeBanner() {
   return (
     <Welcome>
       <div>
-        <h1 style={{ textShadow: '2px 2px 4px #000000' }}>PUMP IT CASINO</h1>
-        <h1 style={{ textShadow: '2px 2px 4px #000000' }}>OPENING TODAY</h1>
+        <h1 style={{ textShadow: '2px 2px 4px #000000' }}>TRUMP SHOT</h1>
+        <h1 style={{ textShadow: '2px 2px 4px #000000' }}>CASINO OPEN</h1>
         <p></p>
       </div>
       <Buttons>
-        <button onClick={() => window.open('https://www.tensor.trade/trade/pump_it', '_blank')}>
-          Buy PUMP IT NFT
+        <button onClick={() => window.open('https://pump.fun/board', '_blank')}>
+          Buy $SHOT
         </button>
-        <button onClick={() => window.open('https://x.com/the_pumpcoin', '_blank')}>
-         Join Community
+        <button onClick={() => window.open('https://x.com/Shotcasino', '_blank')}>
+         Join the Shooters
         </button>
       </Buttons>
     </Welcome>
